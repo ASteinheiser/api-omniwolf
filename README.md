@@ -1,2 +1,2 @@
-# OmniWolf-Lambda
-OmniWolf API
+# OmniWolf API
+
