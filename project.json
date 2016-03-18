@@ -1,0 +1,9 @@
+
+{
+  "name": "OmniWolf",
+  "description": "OmniWolf API",
+  "memory": 128,
+  "timeout": 5,
+  "role": "arn:aws:iam::043355631379:role/omniwolf-lambda",
+  "environment": {}
+}
